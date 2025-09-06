@@ -1,0 +1,19 @@
+# Unity generated files
+/Library/
+/Temp/
+/Logs/
+/MemoryCaptures/
+/obj/
+/Build/
+/Builds/
+/UserSettings/
+/.vs/
+/.vscode/
+/.utmp/
+
+# Unity meta files
+*.meta
+
+# Temporary files
+*.tmp
+*.temp
